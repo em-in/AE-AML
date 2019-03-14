@@ -4,7 +4,7 @@
 
 PKG_NAME="device-trees-amlogic"
 PKG_VERSION="97c2f60"
-PKG_SHA256="6a10a3087fca608d98f225ba1145040b4d147a65117281c9132bb37ae13897bf"
+PKG_SHA256="2b39d4977151c7e2d2254c2e798ec342d07c917699ea0584b59c31be8c8ff1ca"
 PKG_LICENSE="GPL"
 PKG_SITE="https://github.com/AlexELEC/device-trees-amlogic"
 PKG_URL="$PKG_SITE/archive/$PKG_VERSION.tar.gz"
