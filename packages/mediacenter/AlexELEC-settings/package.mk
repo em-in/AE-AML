@@ -5,7 +5,7 @@
 
 PKG_NAME="AlexELEC-settings"
 PKG_VERSION="faf6242"
-PKG_SHA256="b62b4caaf442473e4e71fca84e0d2ea3535bf48838e82c8de47249e469f1d1ba"
+PKG_SHA256="897a007399bf1f36b40fe1a8980730d1f08a80154fcb8bb02cc0653c73fdc6f3"
 PKG_LICENSE="GPL"
 PKG_SITE="https://github.com/AlexELEC/service.alexelec.settings"
 PKG_URL="$PKG_SITE/archive/$PKG_VERSION.tar.gz"
