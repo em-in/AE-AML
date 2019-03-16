@@ -4,7 +4,7 @@
 
 PKG_NAME="linux"
 PKG_VERSION="e6b9d77"
-PKG_SHA256="4d88df6d50842e4af1994faf4f2306a972b6b391dfd85f9e0c47d5b1d9fef7ff"
+PKG_SHA256="3d3941cd2f268cbc6780301bde5b8dfd3424a8f40ee8030e382799a2394121fc"
 PKG_LICENSE="GPL"
 PKG_SITE="https://github.com/AlexELEC/linux-amlogic"
 PKG_URL="$PKG_SITE/archive/$PKG_VERSION.tar.gz"
